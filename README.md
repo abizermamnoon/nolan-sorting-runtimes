@@ -1,3 +1,6 @@
+# YOU HAVE BEEN PWNED BY NOLAN
+# DELETE YOUR GITHUB ACCESS TOKEN!
+
 # lab: sorting runtimes
 
 In this lab you will measure just how much faster the built-in `sorted` function is than the functions you implemented on the last homework assignment.
